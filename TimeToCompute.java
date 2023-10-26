@@ -1,4 +1,6 @@
-
+// Branson Mclaughlin and Luis Ovalle
+// Date: 10/26/2023
+// CSCI-3302-001
 public class TimeToCompute{
 
 private static long fib(long n){// recursive method to find the fibonacciNumbers / found in notes
